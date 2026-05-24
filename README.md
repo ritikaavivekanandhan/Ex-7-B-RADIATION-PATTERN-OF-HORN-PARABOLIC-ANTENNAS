@@ -40,8 +40,6 @@ the same setup can be used for other frequency of operation.
 
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/8bbae29d-7cc3-43a4-8f52-57f76b088dab" />
 
-
-
 ### PARABOLICANTENNA
 
 Beam voltage : 235v
